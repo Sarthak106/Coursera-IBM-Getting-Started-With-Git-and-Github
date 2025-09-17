@@ -1,4 +1,4 @@
-# IBM Full Stack Software Developer Certificate Course Code of Conduct
+# IBM Getting Started with Git and GitHub Certificate Course Code of Conduct
 
 ## Our Pledge
 
